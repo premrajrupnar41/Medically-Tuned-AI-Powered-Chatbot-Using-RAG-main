@@ -28,10 +28,4 @@ This chatbot is built on a Retrieval-Augmented Generation (RAG) architecture, wh
 - **Streamlit** – Frontend for user interaction.
 - **Python** – Core development language.
 
-## Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/PrathameshBamb/Medically-Tuned-AI-Powered-Chatbot-Using-RAG.git
 
