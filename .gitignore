@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+
+# Ignore environment variables
+.env
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Ignore FAISS index files (optional if large or local-only)
+DB_FAISS_PATH/
+
+# macOS and Jupyter cache
+.DS_Store
+.ipynb_checkpoints/
